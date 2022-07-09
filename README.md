@@ -15,16 +15,16 @@ The features of this project are :
 
 As of now only local deployment is possible
 
-```bash
 The python code file and application, open and download
-```
-[download here]()
+[download here](https://github.com/genpranav/Covid-Cough-Classification/blob/main/app.py)
 
 Install Prerequisite
 
-```bash
+The python code file of the model info, open and download
+[download here](https://github.com/genpranav/Covid-Cough-Classification/blob/main/model.h5)
+
 You will require the following versions of the mentioned libraries in the file requirements.txt(linked below) to implement this as is,
-```
+
 [libraries required](https://github.com/genpranav/CovidCoughClassfication/blob/main/requirements.txt)
 
 [suggestion - download from here](https://pypi.org/)
