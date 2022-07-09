@@ -11,16 +11,6 @@ The features of this project are :
 3. 94% accuracy (with binary Classification with non-uniform training)
 4. programing language - python
 
-## Demo
-
-will be up shortly
-
-  
-## Documentation
-
-The Documentation of this project - [click here]()
-
-  
 ## Run Locally
 
 As of now only local deployment is possible
